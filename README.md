@@ -6,7 +6,7 @@
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,maven,mysql,spring)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,maven,mysql,spring)](https://skillicons.dev)
 
 ## Setup
 
