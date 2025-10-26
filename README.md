@@ -2,7 +2,7 @@
 
 ## Description
 
-### This App allows to Create Read Update and Delete (CRUD) student records into the database, this App was made for academic purposes as a learning project, the main purpose of this app is to learn and practise Spring Boot and gain hands-on experience with backend development.
+#### This App allows to Create Read Update and Delete (CRUD) student records into the database, this App was made for academic purposes as a learning project, the main purpose of this app is to learn and practise Spring Boot and gain hands-on experience with backend development.
 
 ## Stack
 
