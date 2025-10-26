@@ -14,6 +14,7 @@
 #### Then you need to create a SQL Connection, use springstudent as your Connection Name and username
 #### Open the 02-student-tracker.sql script within this connection and execute it to set up the schema
 #### Now you can run Java application
+#### You can also uncomment some methods in CommandLineRunner in SpringApplication if you need to use them
 
 ## Notes
 
