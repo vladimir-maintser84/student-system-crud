@@ -10,11 +10,11 @@
 
 ## Setup
 
-### Firstly you need to open mySQL Workbench and open your Local Instance, then you need to open the 01-create-user.sql script and execute it 
-### Then you need to create a SQL Connection, use springstudent as your Connection Name and username
-### Open the 02-student-tracker.sql script within this connection and execute it to set up the schema
-### Now you can run Java application
+#### Firstly you need to open mySQL Workbench and open your Local Instance, then you need to open the 01-create-user.sql script and execute it 
+#### Then you need to create a SQL Connection, use springstudent as your Connection Name and username
+#### Open the 02-student-tracker.sql script within this connection and execute it to set up the schema
+#### Now you can run Java application
 
 ## Notes
 
-### This project can be extended with additional features, like GUI Interface or Frontend implementation.
+#### This project can be extended with additional features, like GUI Interface or Frontend implementation.
